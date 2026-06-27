@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Epic Rock Paper Scissors</title>
+    <style>
+      /* --- CSS STYLING --- */
+      @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap");
+    </style>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="game-container">
+      <h1>Ro-Sham-Bo!</h1>
+
+      <div class="scoreboard">
+        <div class="score">
+          <p>Player</p>
+          <span id="player-score">0</span>
+        </div>
+        <div class="score">
+          <p>Computer</p>
+          <span id="computer-score">0</span>
+        </div>
+      </div>
+
+      <div class="result-message" id="result-message">Choose your weapon!</div>
+
+      <div class="arena">
+        <div class="hand" id="player-hand">👊</div>
+        <div class="hand" id="computer-hand">👊</div>
+      </div>
+
+      <div class="controls">
+        <button class="weapon" data-choice="rock">🪨</button>
+        <button class="weapon" data-choice="paper">📄</button>
+        <button class="weapon" data-choice="scissors">✂️</button>
+      </div>
+
+      <button id="reset-btn">Reset Scores</button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+<!-- https://docs.google.com/forms/d/e/1FAIpQLSckArN9E2RB7jHPCmTVuRi5opVWWdjR9KYwnUfGDs8W7nou6A -->
