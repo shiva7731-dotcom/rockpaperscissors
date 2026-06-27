@@ -1,4 +1,21 @@
 # ✊✋✌️ Rock Paper Scissors Game
+## 🌐 Live Demo
+
+Play the live version of the application here:
+
+🔗 https://rockpaperscissorsgme.netlify.app/
+
+The game is fully browser-based and requires no installation. Simply open the link, choose Rock, Paper, or Scissors, and compete against the computer while enjoying a responsive and interactive user experience.
+# ✊✋✌️ Rock Paper Scissors
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+## 🌐 Live Demo
+**https://rockpaperscissorsgme.netlify.app/**
 
 An interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**. Challenge the computer in this classic game while enjoying a clean, responsive, and engaging user interface.
 
